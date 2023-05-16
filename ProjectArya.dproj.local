@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/14 08:22:25.000.807,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 08:26:10.000.080,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 08:33:44.000.190,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 11:20:56.000.206,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 07:26:07.000.019,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/27 08:46:25.000.868,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:07:07.000.489,=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:07:36.000.879,D:\Projec_visual2_AryaLaksono\login.pas=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:07:36.000.879,D:\Projec_visual2_AryaLaksono\login.dfm=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/16 07:07:44.000.632,D:\Projec_visual2_AryaLaksono\ProjectArya.dproj=C:\Users\ASUS\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/16 07:08:04.000.837,=D:\Projec_visual2_AryaLaksono\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:08:16.000.529,D:\Projec_visual2_AryaLaksono\umodule.dfm=D:\Projec_visual2_AryaLaksono\Unit1.dfm</Transaction>
+    <Transaction>2023/05/16 07:08:16.000.529,D:\Projec_visual2_AryaLaksono\umodule.pas=D:\Projec_visual2_AryaLaksono\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:13:46.000.154,=D:\Projec_visual2_AryaLaksono\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 07:13:54.000.647,D:\Projec_visual2_AryaLaksono\utama.pas=D:\Projec_visual2_AryaLaksono\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 07:13:54.000.647,D:\Projec_visual2_AryaLaksono\utama.dfm=D:\Projec_visual2_AryaLaksono\Unit2.dfm</Transaction>
+    <Transaction>2023/05/16 07:28:31.000.108,=D:\Projec_visual2_AryaLaksono\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:05:16.909,=D:\Projec_visual2_AryaLaksono\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:08:41.261,D:\Projec_visual2_AryaLaksono\store.pas=D:\Projec_visual2_AryaLaksono\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:08:41.261,D:\Projec_visual2_AryaLaksono\store.dfm=D:\Projec_visual2_AryaLaksono\Unit3.dfm</Transaction>
+    <Transaction>2023/05/16 08:10:35.509,=D:\Projec_visual2_AryaLaksono\Unit4.pas</Transaction>
+    <Transaction>2023/05/16 08:11:47.886,D:\Projec_visual2_AryaLaksono\transaction.pas=D:\Projec_visual2_AryaLaksono\Unit4.pas</Transaction>
+    <Transaction>2023/05/16 08:11:47.886,D:\Projec_visual2_AryaLaksono\transaction.dfm=D:\Projec_visual2_AryaLaksono\Unit4.dfm</Transaction>
+    <Transaction>2023/05/16 08:35:12.246,=D:\Projec_visual2_AryaLaksono\Unit5.pas</Transaction>
+    <Transaction>2023/05/16 08:36:23.533,D:\Projec_visual2_AryaLaksono\service.pas=D:\Projec_visual2_AryaLaksono\Unit5.pas</Transaction>
+    <Transaction>2023/05/16 08:36:23.533,D:\Projec_visual2_AryaLaksono\service.dfm=D:\Projec_visual2_AryaLaksono\Unit5.dfm</Transaction>
+    <Transaction>2023/05/16 08:52:53.381,=D:\Projec_visual2_AryaLaksono\Unit6.pas</Transaction>
+    <Transaction>2023/05/16 08:53:47.292,D:\Projec_visual2_AryaLaksono\promo.dfm=D:\Projec_visual2_AryaLaksono\Unit6.dfm</Transaction>
+    <Transaction>2023/05/16 08:53:47.292,D:\Projec_visual2_AryaLaksono\promo.pas=D:\Projec_visual2_AryaLaksono\Unit6.pas</Transaction>
+  </Transactions>
+</BorlandProject>
